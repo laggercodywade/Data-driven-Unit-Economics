@@ -47,7 +47,3 @@ Continue tracking these metrics monthly. If the LTV/CAC ratio falls below target
 3. Review the summary and conclusion sections for actionable business insights.
 
 ---
-
-## License
-
-This project is for educational and
